@@ -1,6 +1,6 @@
 # Linear Feature Alignment
 
-This repo is the official code base for Black Box Few-Shot Adaptation for Vision-Language models.
+This repo is the official code base for [Black Box Few-Shot Adaptation for Vision-Language models](https://arxiv.org/abs/2304.01752).
 It contains the following implementations:
 
 - **LFA** (supervised and unsupervised variants).
