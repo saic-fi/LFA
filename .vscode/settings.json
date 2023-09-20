@@ -1,0 +1,13 @@
+{
+  "python.formatting.provider": "black",
+  "python.linting.pylintArgs": ["--disable=C0111", "--disable=E1101"],
+  
+  "[python]": {
+      "editor.formatOnSave": true,
+      "editor.codeActionsOnSave": {
+          "source.fixAll": true,
+          "source.organizeImports": true
+      }
+  },
+  "python.analysis.typeCheckingMode": "basic",
+}
