@@ -4,7 +4,7 @@ This repo is the official code base for Black Box Few-Shot Adaptation for Vision
 It contains the following implementations:
 
 - **LFA** (supervised and unsupervised variants).
-- **LFA** for V-L models: CLIP, ALIGN, FLAVA, and ALT-CLIP. In additiona to uni-modal models (text encoder:[OpenAI Embeddings](https://platform.openai.com/docs/guides/embeddings), visual encoders: [BYOL](https://arxiv.org/abs/2006.07733), [Barlow Twins](https://arxiv.org/abs/2103.03230) and [MoCo v3](https://arxiv.org/abs/2104.02057)).
+- **LFA** for V-L models: [CLIP](https://arxiv.org/abs/2103.00020), [ALIGN](https://arxiv.org/abs/2102.05918), [FLAVA](https://arxiv.org/abs/2112.04482), and [ALT-CLIP](https://arxiv.org/abs/2211.06679). In additional to uni-modal models (text encoder: [OpenAI Embeddings](https://platform.openai.com/docs/guides/embeddings), visual encoders: [BYOL](https://arxiv.org/abs/2006.07733), [Barlow Twins](https://arxiv.org/abs/2103.03230) and [MoCo v3](https://arxiv.org/abs/2104.02057)).
 - **LFA** for image and video datasets.
 - Other methods:
     - Image soft-prompting: [CoOp](https://arxiv.org/abs/2109.01134) and [CoCoOp](https://arxiv.org/abs/2203.05557).
