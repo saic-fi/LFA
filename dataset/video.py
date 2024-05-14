@@ -1,10 +1,3 @@
-"""
-K700: /home/nfs/datasets/Kinetics700 (raw videos)
-K600: /home/nfs/datasets/Kinetics600 (seq_h5 folder -h5 format)
-K400: /home/nfs/datasets/Kinetics400 (seq_h5_450x340 or 256 folder)
-HMDB: /home/nfs/adrian.bulat/Datasets/hmdb51
-UCF-101: /home/nfs/adrian.bulat/Datasets/UCF-101
-"""
 
 import json
 import os
